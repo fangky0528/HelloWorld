@@ -1,6 +1,6 @@
 public class HelloWorld {
 
-    String str1 = "12222243111";
+    String str3 = "12222243111";
     String str2 = "11";
     public int s1;
 
