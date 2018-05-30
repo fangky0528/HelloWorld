@@ -1,6 +1,6 @@
 public class HelloWorld {
 
-    String str = "12222243111";
+    String str1 = "12222243111";
     public int s1;
 
     public static void main(String[] args) {
