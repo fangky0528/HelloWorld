@@ -1,5 +1,5 @@
 public class Test {
-    private String s1;
+    private String s;
     private String s31;
     private String s2111;
 
