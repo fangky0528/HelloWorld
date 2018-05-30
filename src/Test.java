@@ -1,7 +1,7 @@
 public class Test {
     private String s;
     private String s3;
-    private String s2;
+    private String s2111;
     public String getS() {
         return s;
     }
