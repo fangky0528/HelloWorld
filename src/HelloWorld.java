@@ -11,7 +11,6 @@ public class HelloWorld {
         i = i / 6;
         System.out.println("i = " + i);
         System.out.println("Hello World211");
-        System.out.println("123");
     }
 
     public String getMsg() {
